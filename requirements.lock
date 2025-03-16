@@ -35,6 +35,8 @@ pydantic-core==2.27.2
     # via scrapybara
 pyee==11.0.1
     # via undetected-playwright-patch
+python-dotenv==1.0.1
+    # via platoproject
 scrapybara==2.4.1
     # via platoproject
 sniffio==1.3.1
